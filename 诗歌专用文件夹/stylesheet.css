@@ -1,0 +1,9 @@
+h1{color: #DDB9F7;font-size: 300%;}
+li{font-size: 200%;list-style-type: none}
+a{color:#BEE5FF;text-decoration: none}
+body{background-image: url(蓝粉渐变.svg);
+background-repeat: repeat-x;
+  background-size:200%;
+border-width:0px}
+p,pre{color: #F7BAE3}
+pre{font-size: 150%;}
